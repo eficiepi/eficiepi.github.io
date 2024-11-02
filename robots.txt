@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eficiepi.github.io/MDV/sitemap_index.txt
+Sitemap: https://eficiepi.github.io/dMU/sitemap_index.txt
+Sitemap: https://eficiepi.github.io/hFl/sitemap_index.txt
+Sitemap: https://eficiepi.github.io/vLd/sitemap_index.txt
